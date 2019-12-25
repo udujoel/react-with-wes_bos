@@ -1,2 +1,2 @@
 # react-with-wes_bos
-Intro to react library with weeds bos 
+Intro to react library with wes bos 
